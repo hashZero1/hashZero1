@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">I'm Animesh Sharma</h1>
+<h1 align="center">Hi 👋, I'm Animesh Sharma</h1>
 <h3 align="center">A passionate Frontend Developer with a focus on creativity and staying up-to-date with the latest advancements in technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashzero1&label=Profile%20views&color=0e75b6&style=flat" alt="hashzero1" /> </p>
