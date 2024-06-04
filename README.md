@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://animeshsharma.netlify.app/](https://animeshsharma.netlify.app/)
 
-- 💬 Ask me about **My technical skills include proficiency in HTML, CSS, Javascript and React. Also, I have a good command of backend technologies and UI/UX designing tools.**
+- 💬 About my skills **My technical skills include proficiency in HTML, CSS, Javascript and React. Also, I have a good command of backend technologies and UI/UX designing tools.**
 
 - 📫 How to reach me **animesh8492@gmail.com**
 
