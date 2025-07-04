@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashzero1" alt="hashzero1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://animeshsharma.netlify.app/](https://animeshsharma.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://animeshsharma.netlify.app/](https://animeshsharma.vercel.app/)
 
 - 💬 About my skills **My technical skills include proficiency in HTML, CSS, Javascript and React. Also, I have a good command of backend technologies and UI/UX designing tools.**
 
 - 📫 How to reach me **animesh8492@gmail.com**
 
-- 📄 Know about my experiences [https://animeshsharma.netlify.app/](https://animeshsharma.netlify.app/)
+- 📄 Know about my experiences [https://animeshsharma.netlify.app/](https://animeshsharma.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
